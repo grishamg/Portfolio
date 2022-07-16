@@ -24,9 +24,6 @@ const Footer = () => {
 					))}
 				</SimpleGrid>
 			</Center>
-			<Center mt={10}>
-				<Text>&copy; 2022 Hari Kotha</Text>
-			</Center>
 		</Box>
 	);
 };
